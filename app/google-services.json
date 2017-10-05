@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "889338893138",
+    "firebase_url": "https://amazonbonsplan.firebaseio.com",
+    "project_id": "amazonbonsplan",
+    "storage_bucket": "amazonbonsplan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889338893138:android:61127900b3ec2d7a",
+        "android_client_info": {
+          "package_name": "abp.amazonbonplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889338893138-vubc0chr2ur0f17r0acjus6de7i2tsr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abp.amazonbonplan",
+            "certificate_hash": "66b7bbb3e197841b973489209ac0e22741cf2b6e"
+          }
+        },
+        {
+          "client_id": "889338893138-8t3qvrujepobq8ntr9dcv4ei517lgva3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosYywT97jt7Bel7wHRNhCeW8EkXdjwDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889338893138-8t3qvrujepobq8ntr9dcv4ei517lgva3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

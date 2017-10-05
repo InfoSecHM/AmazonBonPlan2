@@ -1,0 +1,435 @@
+<resources>
+    <string name="app_name">Amazon Bon Plan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">HOT</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>HOT</item>
+        <item>Photos</item>
+        <item>Movies</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Rate app</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="facebook_app_id">248516152318557</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="signincancelled">تم الغاء تسجيل الدخول</string>
+    <string name="notification">notification</string>
+    <string name="fcm_token">fcm_token</string>
+    <string name="one">ONE</string>
+    <string name="eight">EIGHT</string>
+    <string name="five">FIVE</string>
+    <string name="four">FOUR</string>
+    <string name="nine">NINE</string>
+    <string name="seven">SEVEN</string>
+    <string name="six">SIX</string>
+    <string name="ten">TEN</string>
+    <string name="zero">0</string>
+    <string name="votes">عدد الأصوات :</string>
+    <string name="notif">الاشعارات</string>
+    <string name="vibrate">اهتزاز</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
+    <string name="btn_simple_tabs">Simple Tabs</string>
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+    <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
+    <string name="btn_icon_tabs">Only Icon Tabs</string>
+    <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
+    <string name="title_activity_icon_text_tabs">Site-Setup</string>
+    <string name="title_activity_icon_tabs">Icon Tabs</string>
+    <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="versus">\?</string>
+    <string name="matchdetails"><u>الأهداف</u></string>
+
+    <string name="status_type">true</string>
+    <string name="dash">-</string>
+    <string name="separator">|</string>
+    <string name="status_points">false</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="internet_connected">الشبكة متاحة !</string>
+    <string name="no_internet_connected">الشبكة غير متاحة !</string>
+    <string name="settings">ضبط</string>
+    <string name="voted">لقد صوت لهذه المباراة من قبل</string>
+    <string name="closed">التصويت مغلق</string>
+    <string name="nav_hots">Hots</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="thefriends">أصدقاء النادي</string>
+    <string name="newsfeed">أخبار النادي</string>
+    <string name="livestream">بث مباشر</string>
+    <string name="matches">المباريات</string>
+    <string name="schedule">الترتيب</string>
+    <string name="lineup">التشكيلات</string>
+    <string name="stats">إحصائيات</string>
+    <string name="vote">التصويت</string>
+    <string name="prefix">0</string>
+    <string name="header">header</string>
+    <string name="item">item</string>
+    <string name="shareapp">نشر الرابط :</string>
+    <string name="shareapp2">نشر الفيديو :</string>
+    <string name="shareapp3">نشر الخبر :</string>
+    <string name="ok">تم التصويت بنجاح</string>
+    <string name="text">حمل تطبيق العهد كورة :</string>
+    <string name="vidshare">العهد كورة بالفيديو :</string>
+    <string name="newsshare">العهد كورة خبر :</string>
+
+    <string name="PREF_FILE_Settings">APP_PREF_FILE_Settings</string>
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="PREF_FILE4">APP_PREF_FILE4</string>
+    <string name="PREF_FILE_PRESSED">APP_PREF_FILE_PRESSED</string>
+    <string name="PREF_FILE2">APP_PREF_FILE2</string>
+    <string name="PREF_FILE3">APP_PREF_FILE3</string>
+    <string name="final_1">final_1</string>
+    <string name="final_2">final_2</string>
+    <string name="final_1_pref2">final_1_pref2</string>
+    <string name="final_2_pref2">final_2_pref2</string>
+
+    <string name="fb_name">fb_name</string>
+    <string name="fb_email">fb_email</string>
+    <string name="namematch">namematch</string>
+    <string name="ID">ID</string>
+    <string name="NAMEMATCH">NAMEMATCH</string>
+    <string name="NAMEMATCH_NEW">NAMEMATCH_NEW</string>
+    <string name="NAMEMATCH_NEWEST">NAMEMATCH_NEWEST</string>
+    <string name="ifpressed">ifpressed</string>
+    <string name="X">X</string>
+    <string name="TEAMNEW1">رقم1</string>
+    <string name="TEAMNEW2">رقم2</string>
+    <string name="TEAMNEW1_name">الفريق1</string>
+    <string name="TEAMNEW2_name">الفريق2</string>
+    <string name="TEAMNEW1_image_1">صورة الفريق 1</string>
+    <string name="TEAMNEW2_image_2">صورة الفريق 2</string>
+    <string name="tour">الجولة</string>
+    <string name="stadium">الملعب</string>
+
+
+    <string name="title_activity_comments">Comments</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_refresh">Reload</string>
+    <string name="developed">برمجة :</string>
+    <string name="developedby"><a href="https://www.facebook.com/mahdi.hraybi">مهدي حريبي</a></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="hots_fragment">Hots fragment</string>
+    <string name="favorite_fragment">Favorite fragment</string>
+    <string name="settings_fragment">Settings fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="share">نشر التطبيق</string>
+    <string name="music">أغاني النادي</string>
+
+    <string name="checkupdate">بحث عن تحديث</string>
+    <string name="rateus">قيّم التطبيق</string>
+    <string name="aboutus">من نحن</string>
+    <string name="feedback">أرسل لنا رسالة</string>
+    <string name="settings_notification">الإعدادات</string>
+    <string name="signout_press">تسجيل الخروج</string>
+    <string name="signin_press">تسجيل الدخول</string>
+    <string name="ic_team">فريق العمل</string>
+
+    <string name="email_signin">email</string>
+    <string name="name_signin">name</string>
+    <string name="point_signin">point</string>
+    <string name="image_signin">image</string>
+    <string name="birthday_signin">birthday</string>
+    <string name="id_signin">id</string>
+    <!-- Toolbar titles when navigation menu item is selected -->
+
+
+    <string name="feedbacktitle">أرسل لنا رأيك وملاحظاتك برسالة عبر بريدك الالكتروني:</string>
+    <string name="feedbacksubject">حول تطبيق نادي العهد الرياضي</string>
+
+    <string name="slide_1_title">Why Amazon Bons Plan?</string>
+    <string name="slide_1_desc">Fast,simple and updated deals everyday!</string>
+
+    <string name="slide_2_title">   Found your specific products!</string>
+    <string name="slide_2_desc">Just select your category and make your own search </string>
+
+    <string name="slide_3_title">COMPLETE INTERNET SITES</string>
+    <string name="slide_3_desc">Internet is our specialty. Our satisfaction is to deliver high-quality websites!</string>
+
+    <string name="slide_4_title">CONTROL OF BUDGETS</string>
+    <string name="slide_4_desc">Because every problem has a solution, our offers are adapted to your budget, whatever the type or the scope of your project!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_navigation">نادي العهد الرياضي</string>
+    <string name="fb_email_new">fbemail</string>
+    <string name="fb_name_new">fbnew</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+            This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+            For more information, see https://support.google.com/admob/answer/3052638
+        <!- -->
+    <string name="interstitial_ad_unit_id2">ca-app-pub-8750718022354184/1638261759</string>
+    <string name="interstitial_ad_unit_id3">ca-app-pub-8750718022354184/3114994954</string>
+    <string name="inter">ca-app-pub-8750718022354184/9161528559</string>
+    <string name="title_activity_detail_match">Detail_match</string>
+    <string name="action_settings">قيّم التطبيق</string>
+    <string name="action_settings2">تسجيل الخروج</string>
+    <string name="signout_text">تم ستجيل الخروج بنجاح</string>
+    <string name="id_livestream">id_livestream</string>
+    <string name="id_livestream_pressed">id_livestream_pressed</string>
+    <string name="points0">0 points</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings2">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="multiplied_expanding">Multiplied expanding</string>
+    <string name="always_expanded">Always expanded</string>
+
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="notregistered">Not registered</string>
+    <string name="User">User</string>
+    <string name="title_text">تسجيل الدخول</string>
+    <string name="PREF_LOGIN">LOGIN</string>
+    <string name="PREF_LIKED">LIKED</string>
+    <string name="LIKED_ID">LIKEDID</string>
+    <string name="LIKED_STATUS">LIKEDNEWS</string>
+    <string name="PREF_LOGIN_JUST_STATUS">LOGIN_STATUS</string>
+
+    <!-- Sign-in status messages -->
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+    <string name="disclaimer">ملاحظة : إن عملية تسجيل حسابكم هي في حماية وحصانة شركة فيسبوك</string>
+    <string name="signed_in_err">"Error: please check logs."</string>
+    <string name="error_null_person">
+        Error: Plus.PeopleApi.getCurrentPerson returned null. Ensure that the Google+ API is
+        enabled for your project, you have a properly configured google-services.json file
+        and that your device has an internet connection.
+    </string>
+    <string name="loading">Loading…</string>
+    <string name="auth_code_fmt">Auth Code: %s</string>
+    <string name="id_token_fmt">ID Token: %s</string>
+
+    <!-- Google Play Services error for Toast -->
+    <string name="play_services_error_fmt">Google Play Services Error: %i</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+
+    <!-- Rationale for asking for Contacts -->
+    <string name="contacts_permission_rationale">Contacts access is needed in order to retrieve your email address.</string>
+
+    <!-- Activity Names and Descriptions -->
+    <string name="name_sign_in_activity">SignInActivity</string>
+
+
+    <string name="group_standing1">الدوري اللبناني</string>
+    <string name="group_standing2">المجموعة 2</string>
+    <string name="group_standing3">المجموعة 3</string>
+    <string name="hashtag">#</string>
+    <string name="group_name">الفريق</string>
+    <string name="P">لعب</string>
+    <string name="GA">عليه</string>
+    <string name="GF">له</string>
+    <string name="DIF">الفارق</string>
+    <string name="PTS">النقاط</string>
+    <string name="LEAGUE_NAME">البطولة العربية</string>
+    <string name="VIDEOFRAGMENT">الفيديو</string>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="film_genres">Film genres</string>
+    <string name="website">https://en.wikipedia.org/wiki/Film</string>
+    <string name="date">22 Oct 2015</string>
+    <string name="selected_item">Selected item</string>
+
+    <string-array name="film_genre">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Musical</item>
+        <item>Thriller</item>
+    </string-array>
+
+    <string-array name="actionFilms">
+        <item>Dr. No (1962)</item>
+        <item>Goldfinger (1964)</item>
+        <item>Thunderball (1965)</item>
+        <item>Live and Let Die (1973)</item>
+        <item>Moonraker (1979)</item>
+        <item>For Your Eyes Only (1981)</item>
+        <item>Octopussy (1983)</item>
+        <item>A View to a Kill (1985)</item>
+        <item>Licence to Kill (1989)</item>
+        <item>GoldenEye (1995)</item>
+    </string-array>
+
+    <string-array name="musicals">
+        <item>Naughty Marietta (1935)</item>
+        <item>Rose Marie (1936)</item>
+        <item>Maytime (1937)</item>
+        <item>Sweethearts (1938)</item>
+        <item>Bitter Sweet (1940)</item>
+        <item>New Moon (1940)</item>
+        <item>I Married an Angel (1942)</item>
+        <item>Lady Be Good (1941)</item>
+        <item>Ship Ahoy (1942)</item>
+        <item>Sensations of 1945 (1944)</item>
+    </string-array>
+
+    <string-array name="dramas">
+        <item>Home of the Brave (1949)</item>
+        <item>The Accused (1949)</item>
+        <item>12 Angry Men (1957)</item>
+        <item>Compulsion (1959)</item>
+        <item>Inherit the Wind (1960)</item>
+        <item>To Kill a Mockingbird (1962)</item>
+        <item>Mrs. Miniver (1942)</item>
+        <item>Since You Went Away (1944)</item>
+        <item>The Champ (1931)</item>
+        <item>Nashville (1975)</item>
+    </string-array>
+
+    <string-array name="thrillers">
+        <item>Alien (1979)</item>
+        <item>The French Connection (1971)</item>
+        <item>High Noon (1952)</item>
+        <item>Double Indemnity (1944)</item>
+        <item>Safety Last (1923)</item>
+        <item>The Lady From Shanghai (1948)</item>
+        <item>The Third Man (1949)</item>
+        <item>Rear Window (1954)</item>
+        <item>The 39 Steps (1935)</item>
+        <item>Shadow of a Doubt (1943)</item>
+    </string-array>
+
+    <string-array name="comedies">
+        <item>Safety Last (1923)</item>
+        <item>Duck Soup (1933)</item>
+        <item>Cat Ballou (1965)</item>
+        <item>What\'s Up, Tiger Lily? (1966)</item>
+        <item>Blazing Saddles (1974)</item>
+        <item>Play It Again, Sam (1972)</item>
+        <item>The Cheap Detective (1978)</item>
+        <item>The Naked Gun (1988)</item>
+        <item>The Freshman (1990)</item>
+        <item>Waiting for Guffman (1996) </item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">movie title</string>
+    <string name="action_movies">Action</string>
+    <string name="musical_movies">Musical</string>
+    <string name="drama_movies">Drama</string>
+    <string name="comedy_movies">Comedy</string>
+    <string name="thriller_movies">Thriller</string>
+    <string name="movie_genre">genre</string>
+</resources>
